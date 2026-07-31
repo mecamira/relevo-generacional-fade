@@ -1,0 +1,69 @@
+name: Backup semanal Supabase
+
+on:
+  schedule:
+    - cron: '0 7 * * 0'   # Cada domingo a las 07:00 UTC (09:00 hora España)
+  workflow_dispatch:        # Permite lanzarlo manualmente desde GitHub
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Necesario para hacer push del backup
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+
+      - name: Descargar datos de Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          mkdir -p backups
+
+          fetch() {
+            curl -sf \
+              -H "apikey: $SUPABASE_ANON_KEY" \
+              -H "Authorization: Bearer $SUPABASE_ANON_KEY" \
+              "${SUPABASE_URL}/rest/v1/${1}?select=*"
+          }
+
+          EMPRESAS=$(fetch empresas)
+          COMPRADORES=$(fetch compradores)
+          MATCHES=$(fetch matches)
+          ACTAS=$(fetch actas)
+
+          jq -n \
+            --arg date "$DATE" \
+            --argjson empresas "$EMPRESAS" \
+            --argjson compradores "$COMPRADORES" \
+            --argjson matches "$MATCHES" \
+            --argjson actas "$ACTAS" \
+            '{
+              date: $date,
+              empresas: $empresas,
+              compradores: $compradores,
+              matches: $matches,
+              actas: $actas
+            }' > "backups/${DATE}.json"
+
+          echo "Backup guardado: backups/${DATE}.json"
+          echo "  - Empresas:    $(echo $EMPRESAS   | jq length)"
+          echo "  - Compradores: $(echo $COMPRADORES | jq length)"
+          echo "  - Matches:     $(echo $MATCHES     | jq length)"
+          echo "  - Actas:       $(echo $ACTAS       | jq length)"
+
+      - name: Eliminar backups con más de 90 días
+        run: |
+          find backups/ -name "*.json" -mtime +90 -delete || true
+
+      - name: Guardar backup en el repositorio
+        run: |
+          git config user.name "GitHub Actions (Backup)"
+          git config user.email "actions@github.com"
+          git add backups/
+          git diff --staged --quiet && echo "Sin cambios que guardar" || \
+            git commit -m "Backup automático $(date +%Y-%m-%d)"
+          git push
