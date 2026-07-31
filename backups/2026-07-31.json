@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-31",
+  "empresas": [],
+  "compradores": [],
+  "matches": [
+    {
+      "id": "mpdx6hwceed0s29fygp",
+      "data": {
+        "id": "mpdx6hwceed0s29fygp",
+        "score": 65,
+        "createdAt": "2026-05-20T10:29:19.260Z",
+        "empresaId": "mp0v6dnz6w6qdz8iqw",
+        "updatedAt": "2026-05-20T10:29:19.260Z",
+        "notasMatch": "",
+        "compradorId": "mp13f2ljiybjxnyshg",
+        "estadoMatch": "presentado"
+      },
+      "created_at": "2026-05-20T10:29:20.920494+00:00"
+    }
+  ],
+  "actas": []
+}
