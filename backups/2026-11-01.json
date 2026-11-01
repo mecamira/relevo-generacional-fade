@@ -1,0 +1,1626 @@
+{
+  "date": "2026-11-01",
+  "empresas": [
+    {
+      "id": "mvs11bppdj1k8kx4nrt",
+      "data": {
+        "id": "mvs11bppdj1k8kx4nrt",
+        "cif": "",
+        "cnae": "",
+        "notas": "",
+        "ebitda": "",
+        "estado": "en_proceso",
+        "nombre": "Natural Life Parafarmacia",
+        "precio": "15000",
+        "sector": "Retail y comercio",
+        "contactos": [
+          {
+            "rol": "Copropietaria",
+            "email": "nlifeparafarmacia@gmail.com",
+            "nombre": "Eva Gil Fernández de Sanmamed",
+            "telefono": "619681082"
+          },
+          {
+            "_id": "1793186015650",
+            "rol": "Copropietaria",
+            "email": "",
+            "nombre": "Alejandra Ramos Bareiros",
+            "telefono": "616132643"
+          }
+        ],
+        "createdAt": "2026-10-28T11:24:16.909Z",
+        "empleados": "0",
+        "municipio": "Oviedo",
+        "provincia": "Asturias",
+        "subsector": "",
+        "updatedAt": "2026-10-28T11:24:16.909Z",
+        "facturacion": "55000",
+        "motivoVenta": "Cambio de actividad",
+        "razonSocial": "Barreiros y Sanmamed EAR",
+        "cifraNegocio": "",
+        "datosHistoricos": [],
+        "enlaceDocumento": "",
+        "nombreComercial": "Natural Life Parafarmacia",
+        "porcentajeVenta": "100%",
+        "tieneValoracion": "no",
+        "añoConstitucion": "2022",
+        "proyectoAsociado": "",
+        "fechaIncorporacion": "",
+        "fechaPrimeraReunion": "2026-10-13",
+        "valoracionSolicitada": ""
+      },
+      "created_at": "2026-10-28T11:24:14.930589+00:00"
+    },
+    {
+      "id": "mvs26zsj1jpw5i02311",
+      "data": {
+        "id": "mvs26zsj1jpw5i02311",
+        "cif": "B33660408",
+        "cnae": "",
+        "notas": "",
+        "ebitda": "69390",
+        "estado": "en_proceso",
+        "nombre": "Pinturas Erigoyen",
+        "precio": "180000",
+        "sector": "Construcción e inmobiliario",
+        "contactos": [
+          {
+            "rol": "Propietario",
+            "email": "luis@erigoyen.com",
+            "nombre": "Luis Enrique Erigoyen López",
+            "telefono": "608472930"
+          }
+        ],
+        "createdAt": "2026-10-28T11:56:41.011Z",
+        "empleados": "13",
+        "municipio": "Coaña",
+        "provincia": "Asturias",
+        "subsector": "Actividades de construcción especializadas",
+        "updatedAt": "2026-10-28T11:56:41.011Z",
+        "facturacion": "880300",
+        "motivoVenta": "Jubilación / sucesión familiar",
+        "razonSocial": "ERIGOYEN SL",
+        "cifraNegocio": "",
+        "datosHistoricos": [
+          {
+            "year": 2026,
+            "ebitda": "63840",
+            "plantilla": "12",
+            "estimativo": false,
+            "facturacion": "811802"
+          },
+          {
+            "year": 2025,
+            "ebitda": "26315",
+            "plantilla": "13",
+            "estimativo": false,
+            "facturacion": "705763"
+          }
+        ],
+        "enlaceDocumento": "",
+        "nombreComercial": "Pinturas Erigoyen",
+        "porcentajeVenta": "100%",
+        "tieneValoracion": "no",
+        "añoConstitucion": "1964",
+        "proyectoAsociado": "",
+        "fechaIncorporacion": "2026-10-06",
+        "fechaPrimeraReunion": "",
+        "valoracionSolicitada": ""
+      },
+      "created_at": "2026-10-28T11:56:38.851542+00:00"
+    },
+    {
+      "id": "mvs2fgfogjb1xhejy4t",
+      "data": {
+        "id": "mvs2fgfogjb1xhejy4t",
+        "cif": "A33612870",
+        "cnae": "",
+        "notas": "",
+        "ebitda": "62000",
+        "estado": "en_proceso",
+        "nombre": "GAMA",
+        "precio": "250000",
+        "sector": "Industria manufacturera",
+        "contactos": [
+          {
+            "rol": "Gerente",
+            "email": "gamalfg@gamalfg.com",
+            "nombre": "Lucía Rivero",
+            "telefono": "985320328"
+          }
+        ],
+        "createdAt": "2026-10-28T12:03:15.828Z",
+        "empleados": "8",
+        "municipio": "Gijón",
+        "provincia": "Asturias",
+        "subsector": "Carpintería metálica",
+        "updatedAt": "2026-10-28T12:03:15.828Z",
+        "facturacion": "788000",
+        "motivoVenta": "Jubilación / sucesión familiar",
+        "razonSocial": "GAMA LFG S.A.",
+        "cifraNegocio": "",
+        "datosHistoricos": [
+          {
+            "year": 2024,
+            "ebitda": "47000",
+            "plantilla": "8",
+            "estimativo": false,
+            "facturacion": "665000"
+          },
+          {
+            "year": 2023,
+            "ebitda": "25200",
+            "plantilla": "8",
+            "estimativo": false,
+            "facturacion": "625000"
+          }
+        ],
+        "enlaceDocumento": "",
+        "nombreComercial": "GAMA",
+        "porcentajeVenta": "100%",
+        "tieneValoracion": "no",
+        "añoConstitucion": "1979",
+        "proyectoAsociado": "",
+        "fechaIncorporacion": "2026-04-20",
+        "fechaPrimeraReunion": "",
+        "valoracionSolicitada": ""
+      },
+      "created_at": "2026-10-28T12:03:13.591302+00:00"
+    }
+  ],
+  "compradores": [
+    {
+      "id": "e319c07ba1754ba0835b",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Situacion profesional: Empresario/a;Inversor/a;Profesional por cuenta ajena\nExperiencia: Más de 20 años\nSectores de experiencia: Servicios empresariales / Consultoría;Educación y formación;Industria y fabricación;Metal\nAmbitos de experiencia: Finanzas y control de gestión;Otros\nObjetivo: Adquirir una empresa para gestionarla personalmente\nOperaciones previas: No\nImplicacion buscada: Participación estratégica o en órganos de dirección\nForma de operar: Dependerá del tipo de operación\nActividades de interes: Fabricación, comercio, mantenimiento\nSectores NO considera: Hostelería, empresas de calderería y soldadura\nFacturacion objetivo: Minimo 50.000 euros, y máximo 600.000\nEmpleados objetivo: Minimo 1, y maximo 10\nFinanciacion contemplada: Recursos propios;Financiación bancaria;Incorporación de otros socios o inversores;Financiación o pago aplazado acordado con la propiedad\nCaracteristicas que valora: Potencial de crecimiento;Cartera de clientes consolidada;Equipo humano estable;Producto o servicio propio;Tecnología o conocimiento especializado\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy buscando activamente una empresa\nHorizonte temporal: Sin un horizonte temporal definido",
+        "estado": "activo",
+        "nombre": "Víctor Cayado González",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Profesor de Ciclos Formativos",
+            "email": "cayadovg@gmail.com",
+            "nombre": "Víctor Cayado González",
+            "telefono": "661282828"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": 10,
+        "inversionMax": 500,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": 50,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Retail y comercio",
+          "Servicios profesionales",
+          "Construccion e inmobiliario",
+          "Energia y medioambiente",
+          "Informatica y tecnologia",
+          "Metal y siderurgia"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:38.702222+00:00"
+    },
+    {
+      "id": "2bf96f60bfb148dc8e20",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: SIRIO EDIFICACION A1V, S.L.\nSituacion profesional: Empresario/a\nExperiencia: Más de 20 años\nSectores de experiencia: Industria y fabricación;Construcción\nAmbitos de experiencia: Producción y operaciones;Dirección y gestión empresarial\nObjetivo: Ampliar o diversificar una actividad empresarial existente\nOperaciones previas: No\nImplicacion buscada: Participación activa, pero sin dedicación a tiempo completo\nForma de operar: Dependerá del tipo de operación\nActividades de interes: CARPINTERÍA METÁLICA, INGENIERÍA DE CÁLCULO DE ESTRUCTURAS, ESTUDIO ARQUITECTURA, CARPINTERÍA DE MADERA\nSectores NO considera: SOCIOSANITARIOS Y TRANSPORTE\nFacturacion objetivo: MÍNIMA DE 60.000 €, MÁXIMA DE 3 MILLONES DE EUROS\nEmpleados objetivo: 0 A 30 TRABAJADORES\nFinanciacion contemplada: Recursos propios;Financiación bancaria;Incorporación de otros socios o inversores;Financiación pública / instrumentos financieros públicos;Financiación o pago aplazado acordado con la propiedad\nCaracteristicas que valora: Potencial de crecimiento;Cartera de clientes consolidada;Equipo humano estable;Producto o servicio propio;Tecnología o conocimiento especializado\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido\nZonas preferidas: Área central de Asturias\nConcejos de interes: GIJÓN, CARREÑO, CORVERA, VILLAVICIOSA Y AVILÉS",
+        "estado": "activo",
+        "nombre": "BENJAMIN MENENDEZ OTERO",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "GERENTE",
+            "email": "benjamin.menendez.otero@gmail.com",
+            "nombre": "BENJAMIN MENENDEZ OTERO",
+            "telefono": "620189449"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": 30,
+        "inversionMax": 500,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Metal y siderurgia",
+          "Construccion e inmobiliario",
+          "Informatica y tecnologia",
+          "Servicios profesionales",
+          "Energia y medioambiente"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:38.771342+00:00"
+    },
+    {
+      "id": "88f0214cb55746de8505",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: Cepillos Sacema\nSituacion profesional: Empresario/a\nExperiencia: Entre 11 y 20 años\nSectores de experiencia: Industria y fabricación\nAmbitos de experiencia: Dirección y gestión empresarial;Producción y operaciones;Innovación;Comercial y ventas;Estrategia y desarrollo de negocio\nObjetivo: Integrar la empresa adquirida en otra empresa o grupo\nOperaciones previas: No\nImplicacion buscada: Participación estratégica o en órganos de dirección\nForma de operar: A través de una empresa de la que soy socio/a\nActividades de interes: Fabricación y máquinas\nSectores NO considera: Servicios, comercio, empresas muy personales vinculadas al socio vendedor\nFacturacion objetivo: 0.5-1.5 M€\nEmpleados objetivo: 5-15\nFinanciacion contemplada: Recursos propios;Financiación o pago aplazado acordado con la propiedad\nCaracteristicas que valora: Potencial de crecimiento;Producto o servicio propio;Tecnología o conocimiento especializado\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido",
+        "estado": "activo",
+        "nombre": "Juan Martínez Baragaño",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Administrador",
+            "email": "Juan. Martínez@sacema.es",
+            "nombre": "Juan Martínez Baragaño",
+            "telefono": "676847540"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": 15,
+        "inversionMax": 250,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Metal y siderurgia",
+          "Servicios profesionales"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:38.837433+00:00"
+    },
+    {
+      "id": "12ef16ff09924c53b832",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: AFA FORMACION\nSituacion profesional: Empresario/a\nExperiencia: Entre 11 y 20 años\nSectores de experiencia: Industria y fabricación;Metal;Energía;Agroalimentario;Comercio y distribución;Transporte y logística;Turismo y hostelería;Tecnología / TIC;Ingeniería y servicios técnicos;Servicios empresariales / Consultoría;Salud y servicios sociosanitarios;Educación y formación;Medioambiente y economía circular;Sector financiero;Sector inmobiliario;Otros\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Comercial y ventas;Marketing y comunicación;Finanzas y control de gestión;Recursos humanos y gestión de equipos;Producción y operaciones;Compras y aprovisionamiento;Logística;Tecnología y digitalización;Innovación;Internacionalización;Otros\nObjetivo: Ampliar o diversificar una actividad empresarial existente\nOperaciones previas: Sí, en varias operaciones\nImplicacion buscada: Participación activa, pero sin dedicación a tiempo completo\nForma de operar: A través de una sociedad o vehículo de inversión\nActividades de interes: CUALQUIERA QUE SEA VIABLE\nSectores NO considera: MINERIA\nFacturacion objetivo: 500 MIL EUROS\nEmpleados objetivo: 2-50 TRABAJADORES\nFinanciacion contemplada: Recursos propios\nCaracteristicas que valora: Potencial de crecimiento;Rentabilidad actual\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy buscando activamente una empresa\nHorizonte temporal: En los próximos 12 meses",
+        "estado": "activo",
+        "nombre": "PABLO GARCIA GONZALEZ",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "DIRECTOR GENERAL",
+            "email": "pablo.garcia@afa-formacion.es",
+            "nombre": "PABLO GARCIA GONZALEZ",
+            "telefono": "605834707"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": 50,
+        "inversionMax": 1000,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Agricultura y alimentacion",
+          "Automocion y componentes",
+          "Construccion e inmobiliario",
+          "Distribucion y logistica",
+          "Energia y medioambiente",
+          "Hosteleria y turismo",
+          "Industria manufacturera",
+          "Informatica y tecnologia",
+          "Metal y siderurgia",
+          "Quimica y farmacia",
+          "Retail y comercio",
+          "Salud y bienestar",
+          "Servicios profesionales",
+          "Textil y moda",
+          "Otro"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:38.896619+00:00"
+    },
+    {
+      "id": "b02732cbe9ee4f1c985a",
+      "data": {
+        "tipo": "privado",
+        "notas": "Empresa actual: TAXUS Medio Ambiente SL\nSituacion profesional: Directivo/a o responsable de área\nExperiencia: Más de 20 años\nSectores de experiencia: Energía;Ingeniería y servicios técnicos;Medioambiente y economía circular\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Recursos humanos y gestión de equipos;Compras y aprovisionamiento;Innovación\nTrayectoria: Casi 30 años de experiencia laboral acumulada en muy diversos sectores. Los últimos 15 años, en puestos de dirección y con varios emprendimientos personales.\nObjetivo: Ampliar o diversificar una actividad empresarial existente\nOperaciones previas: No\nImplicacion buscada: Participación estratégica o en órganos de dirección\nForma de operar: A título individual\nActividades de interes: Sector TIC con potencial de escalado\nSectores NO considera: Inmobiliario, tanto en su gestión, como en su comercialización. Turisma, moda y servicios de asistencia social.\nFacturacion objetivo: 3M€\nEmpleados objetivo: Entre 20 y 50\nFinanciacion contemplada: Incorporación de otros socios o inversores\nCaracteristicas que valora: Potencial de crecimiento;Marco o posicionamiento reconocido\nAcepta empresas con cambios: Solo si las necesidades de mejora son limitadas\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Entre 1 y 2 años\nOtros criterios: Que el sector en el que opere, tenga algo que ver con mi experiencia.\nZonas preferidas: Área central de Asturias\nConcejos de interes: Gijón y Oviedo",
+        "estado": "activo",
+        "nombre": "José Luis Menéndez Álvarez",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Director desarrollo de negocio",
+            "email": "jlmenendez@iies.es",
+            "nombre": "José Luis Menéndez Álvarez",
+            "telefono": "617919216"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 250,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Energia y medioambiente",
+          "Industria manufacturera",
+          "Informatica y tecnologia",
+          "Servicios profesionales"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:38.958913+00:00"
+    },
+    {
+      "id": "644eb6dcc93b40a9bb5a",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: KOALA SMART BUSINESS\nSituacion profesional: Empresario/a\nExperiencia: Entre 11 y 20 años\nSectores de experiencia: Tecnología / TIC;Servicios empresariales / Consultoría\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Finanzas y control de gestión\nTrayectoria: Economista. Más de diez años como director financiero en empresas de diferentes, con responsabilidad directa sobre gestión, control y crecimiento del negocio, y no solo desde el asesoramiento externo (5 años como CFO de Empathy.com).\n\nFundador y CEO de Koala Smart Business (Gijón), despacho especializado en asesoramiento fiscal, mercantil y legal a pymes, con una línea propia dedicada al relevo generacional y a la compraventa de empresas. Hemos participado en 29 operaciones corporativas en 8 sectores, por un volumen conjunto superior a 70 millones de euros, y trabajamos en alianza con un partner en el ámbito legal para cubrir la operación de principio a fin: valoración, due diligence financiera, fiscal, laboral y legal, estructuración de la financiación y cierre.\n\nEmprendedor e inversor, con 8 compañías participadas bajo la estructura societaria de Koala Smart Business\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: Sí, en varias operaciones\nImplicacion buscada: Participación activa, pero sin dedicación a tiempo completo\nForma de operar: Dependerá del tipo de operación\nActividades de interes: Negocios tradicionales, rentables y con trayectoria consolidada, preferentemente con el propietario próximo a la jubilación y sin relevo generacional definido.\n\nBuscamos compañías con ingresos recurrentes o cartera de clientes estable y diversificada, EBITDA recurrente entre 100.000 € y 1.000.000 €, estructura y equipo que no dependan íntegramente del fundador, y un grado de digitalización bajo que abra un margen relevante de optimización mediante la incorporación de tecnología.\n\nPriorizamos actividades con barreras de entrada reales (componente físico, de proximidad, técnico o regulatorio) cuya propuesta de valor no sea fácilmente replicable por la inteligencia artificial: servicios sanitarios y veterinarios, industria y fabricación de nicho, distribución mayorista y logística, mantenimiento e instalaciones técnicas, y servicios profesionales con licencia o certificación.\nSectores NO considera: promoción y construcción inmobiliaria por proyecto, hostelería, restauración y ocio, comercio minorista dependiente de tráfico físico y expuesto al e-commerce, juego y apuestas, tabaco y armamento\nFacturacion objetivo: 500.000 €\nEmpleados objetivo: Mínimo 3 (sin contar a los propietarios) y máximo 10\nFinanciacion contemplada: Incorporación de otros socios o inversores;Financiación o pago aplazado acordado con la propiedad;Recursos propios;Financiación bancaria\nCaracteristicas que valora: Cartera de clientes consolidada;Potencial de digitalización;Equipo humano estable;Ingresos recurrentes\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido\nConcejos de interes: No",
+        "estado": "activo",
+        "nombre": "GUILLERMO RODRIGUEZ VEGA",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "CEO",
+            "email": "guillermo@koalasb.com",
+            "nombre": "GUILLERMO RODRIGUEZ VEGA",
+            "telefono": "689235964"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 250,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Distribucion y logistica",
+          "Industria manufacturera"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.022161+00:00"
+    },
+    {
+      "id": "9f316a438317439790ff",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: MOOQUER\nSituacion profesional: Empresario/a;Directivo/a o responsable de área;Profesional por cuenta ajena;Profesional autónomo/a;Inversor/a\nExperiencia: Entre 11 y 20 años\nSectores de experiencia: Industria y fabricación;Comercio y distribución;Servicios empresariales / Consultoría;Educación y formación;Sector financiero\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Comercial y ventas;Marketing y comunicación;Finanzas y control de gestión;Innovación\nObjetivo: Adquirir una empresa para gestionarla personalmente\nOperaciones previas: No\nImplicacion buscada: Participación activa, pero sin dedicación a tiempo completo\nForma de operar: Todavía no lo tengo definido\nActividades de interes: Ninguno en especial\nSectores NO considera: Ninguno en especial\nFacturacion objetivo: Ninguna en concreto\nEmpleados objetivo: Ninguno en concreto\nFinanciacion contemplada: Recursos propios;Financiación bancaria;Financiación o pago aplazado acordado con la propiedad;Financiación pública / instrumentos financieros públicos\nCaracteristicas que valora: Potencial de crecimiento;Cartera de clientes consolidada;Equipo humano estable;Producto o servicio propio;Tecnología o conocimiento especializado;Instalaciones o activos;Ingresos recurrentes;Potencial de digitalización;Potencial de internacionalización\nAcepta empresas con cambios: Sí\nSituacion actual: Por el momento únicamente quiero conocer las oportunidades disponibles\nHorizonte temporal: Sin un horizonte temporal definido\nZonas preferidas: Área central de Asturias\nConcejos de interes: Oviedo y Siero",
+        "estado": "activo",
+        "nombre": "Borja Rubí Alarma",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Co - Fundador",
+            "email": "borjarubi@icloud.com",
+            "nombre": "Borja Rubí Alarma",
+            "telefono": "609358186"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": null,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Retail y comercio",
+          "Hosteleria y turismo",
+          "Servicios profesionales"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.07339+00:00"
+    },
+    {
+      "id": "a0cf6d14be6f4dc1b2ee",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: Arcelormittal\nSituacion profesional: Directivo/a o responsable de área\nExperiencia: Entre 11 y 20 años\nSectores de experiencia: Industria y fabricación;Metal;Ingeniería y servicios técnicos;Construcción\nAmbitos de experiencia: Producción y operaciones;Otros\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: Sí, en varias operaciones\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: A título individual\nActividades de interes: Metal y mantenimiento industrial\nSectores NO considera: Inmobiliaria\nFacturacion objetivo: Mas de 100000\nEmpleados objetivo: Me daria igual\nFinanciacion contemplada: Financiación bancaria;Financiación o pago aplazado acordado con la propiedad;Financiación pública / instrumentos financieros públicos\nCaracteristicas que valora: Rentabilidad actual;Potencial de crecimiento;Cartera de clientes consolidada;Instalaciones o activos;Equipo humano estable;Producto o servicio propio\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido\nOtros criterios: Empresas del metal\nZonas preferidas: Área central de Asturias\nConcejos de interes: Los cercanos a oviedo, sobretodo morcin",
+        "estado": "activo",
+        "nombre": "Roberto Gonzalez lobo",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Responsable de mantenimiento hidraulico",
+            "email": "Gonzalezloboroberto@gmail.com",
+            "nombre": "Roberto Gonzalez lobo",
+            "telefono": "645278682"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 250,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Metal y siderurgia",
+          "Servicios profesionales",
+          "Agricultura y alimentacion",
+          "Energia y medioambiente"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.132439+00:00"
+    },
+    {
+      "id": "509ce400dc244a55b7a5",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: EESS NOW\nSituacion profesional: Empresario/a\nExperiencia: Más de 20 años\nSectores de experiencia: Industria y fabricación;Ingeniería y servicios técnicos;Servicios empresariales / Consultoría;Otros\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Comercial y ventas;Tecnología y digitalización;Innovación\nObjetivo: Integrar la empresa adquirida en otra empresa o grupo\nOperaciones previas: Sí, en una operación\nImplicacion buscada: Participación activa, pero sin dedicación a tiempo completo\nForma de operar: Dependerá del tipo de operación\nActividades de interes: ninguno en concreto\nSectores NO considera: hostelería\nFacturacion objetivo: no relevante\nEmpleados objetivo: no relevante\nFinanciacion contemplada: depende del negocio\nCaracteristicas que valora: Rentabilidad actual;Cartera de clientes consolidada;Equipo humano estable;Ingresos recurrentes\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido\nZonas preferidas: Área central de Asturias;",
+        "estado": "activo",
+        "nombre": "ELEUTERIO Grande",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Gerente",
+            "email": "egrande@telecable.es",
+            "nombre": "ELEUTERIO Grande",
+            "telefono": "609081826"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 250,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Retail y comercio",
+          "Informatica y tecnologia",
+          "Servicios profesionales"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.190009+00:00"
+    },
+    {
+      "id": "2c98d42c1dec411ab608",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: limpiezas y servicios brillastur s.l\nSituacion profesional: Empresario/a\nExperiencia: Más de 20 años\nSectores de experiencia: Comercio y distribución;Otros\nAmbitos de experiencia: Comercial y ventas;Dirección y gestión empresarial\nObjetivo: Integrar la empresa adquirida en otra empresa o grupo\nOperaciones previas: Sí, en varias operaciones\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: A través de una empresa de la que soy socio/a\nActividades de interes: empresas de limpiezas o servicios facility\nSectores NO considera: nuevas tecnologias\nFacturacion objetivo: cualquier cartera grande o pequeña\nEmpleados objetivo: desde 1 sin tope\nFinanciacion contemplada: Recursos propios\nCaracteristicas que valora: Cartera de clientes consolidada\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy buscando activamente una empresa\nHorizonte temporal: Entre 1 y 2 años\nOtros criterios: estamos interesados en carteras de limpieza aunque sean de pequeños autonomos\nConcejos de interes: oviedo gijon aviles",
+        "estado": "activo",
+        "nombre": "jose antonio serrapio",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "director",
+            "email": "joseantonio.serrapio@brillastur.com",
+            "nombre": "jose antonio serrapio",
+            "telefono": "655850441"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 1000,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": "Servicios profesionales",
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.247005+00:00"
+    },
+    {
+      "id": "c568aa5456424bd49ff6",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: Ninguna\nSituacion profesional: Actualmente sin actividad profesional\nExperiencia: Entre 5 y 10 años\nSectores de experiencia: Industria y fabricación;Metal;Ingeniería y servicios técnicos\nAmbitos de experiencia: Innovación;Dirección y gestión empresarial\nTrayectoria: Comencé mi carrera profesional en Idonial (Centro Tecnológico Asturiano), donde progresivamente fui adquiriendo funciones de jefe de proyectos de ingeniería en el campo de Fabricación Avanzada (principalmente Impresión 3D).\nTras 4 años, asumí un nuevo reto en una startup tecnológica donde aprendí mucho en la parte de gestión general de la empresa, rondas de inversión y organización general de una compañía.\nObjetivo: Adquirir una empresa para gestionarla personalmente\nOperaciones previas: No\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: A título individual\nActividades de interes: Tengo especial interés por empresas industriales sin relevo generacional y con buena salud, tanto de clientes como financiera.\nTambién estoy interesado en empresas de otros sectores que puedan organizarse de algún modo como una empresa industrial, es decir, con procedimientos y formas de trabajo.\n\nNo busco tanto un autoempleo.\nSectores NO considera: ninguna.\nFacturacion objetivo: Empresas entre 200k-1M€.\nEmpleados objetivo: mínimo 1 empleado y máximo de 10 empleados.\nFinanciacion contemplada: Recursos propios;Financiación bancaria;Financiación o pago aplazado acordado con la propiedad\nCaracteristicas que valora: Potencial de crecimiento;Cartera de clientes consolidada;Equipo humano estable;Marco o posicionamiento reconocido;Ingresos recurrentes\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy buscando activamente una empresa\nHorizonte temporal: En los próximos 12 meses\nConcejos de interes: Gijón por ser la ciudad en la que vivo, pero estaría abierto a analizar opciones.",
+        "estado": "activo",
+        "nombre": "GUILLERMO SÁNCHEZ PARRONDO",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Desempleado",
+            "email": "guillersp@gmail.com",
+            "nombre": "GUILLERMO SÁNCHEZ PARRONDO",
+            "telefono": "666108800"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 250,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Agricultura y alimentacion",
+          "Automocion y componentes",
+          "Construccion e inmobiliario",
+          "Distribucion y logistica",
+          "Energia y medioambiente",
+          "Hosteleria y turismo",
+          "Industria manufacturera",
+          "Informatica y tecnologia",
+          "Metal y siderurgia",
+          "Quimica y farmacia",
+          "Retail y comercio",
+          "Salud y bienestar",
+          "Servicios profesionales",
+          "Textil y moda",
+          "Otro"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.313616+00:00"
+    },
+    {
+      "id": "6245f307f3ae43b4880d",
+      "data": {
+        "tipo": "otro",
+        "notas": "Situacion profesional: Profesional por cuenta ajena\nExperiencia: Entre 11 y 20 años\nSectores de experiencia: Industria y fabricación;Metal;Construcción;Comercio y distribución;Tecnología / TIC;Ingeniería y servicios técnicos;Salud y servicios sociosanitarios;Sector financiero;Sector inmobiliario\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Comercial y ventas;Marketing y comunicación;Finanzas y control de gestión;Compras y aprovisionamiento\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: Sí, en una operación\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: Dependerá del tipo de operación\nActividades de interes: Fabricación\nSectores NO considera: Hostelería\nFacturacion objetivo: 250.000 - 3.000.000\nEmpleados objetivo: 1-10\nFinanciacion contemplada: Recursos propios;Financiación bancaria;Incorporación de otros socios o inversores;Financiación o pago aplazado acordado con la propiedad\nCaracteristicas que valora: Rentabilidad actual;Potencial de crecimiento;Cartera de clientes consolidada;Producto o servicio propio;Tecnología o conocimiento especializado;Instalaciones o activos\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido\nZonas preferidas: Área central de Asturias;\nConcejos de interes: Gijón, Villaviciosa, Piloña",
+        "estado": "activo",
+        "nombre": "Gonzalo Viñuela Manso",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "",
+            "email": "gonviman@gmail.com",
+            "nombre": "Gonzalo Viñuela Manso",
+            "telefono": "687481893"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": 10,
+        "inversionMax": 500,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Metal y siderurgia",
+          "Construccion e inmobiliario",
+          "Retail y comercio",
+          "Servicios profesionales"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.36577+00:00"
+    },
+    {
+      "id": "260163b7e1b3451d95d3",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: ADAPTRANS ASTURIAS\nSituacion profesional: Empresario/a\nExperiencia: Más de 20 años\nSectores de experiencia: Transporte y logística;Salud y servicios sociosanitarios\nAmbitos de experiencia: Dirección y gestión empresarial;Comercial y ventas;Logística\nObjetivo: Integrar la empresa adquirida en otra empresa o grupo\nOperaciones previas: No\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: A título individual\nActividades de interes: TRANSPORTE DE VIAJEROS EN GENERAL\nSectores NO considera: LOS DEMAS\nFacturacion objetivo: DEPENDE\nEmpleados objetivo: DEPENDE\nFinanciacion contemplada: Financiación bancaria\nCaracteristicas que valora: Cartera de clientes consolidada;Equipo humano estable;Rentabilidad actual;Potencial de crecimiento\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Entre 1 y 2 años\nConcejos de interes: NO",
+        "estado": "activo",
+        "nombre": "ENRIQUE FERNANDEZ GARRIDO",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "ADMINISTRADOR",
+            "email": "gerencia@adaptrans.com",
+            "nombre": "ENRIQUE FERNANDEZ GARRIDO",
+            "telefono": "984103939"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 1000,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Distribucion y logistica",
+          "Servicios profesionales"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.41854+00:00"
+    },
+    {
+      "id": "0584ee5431034d6c8f4f",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: L40º\nSituacion profesional: Empresario/a\nExperiencia: Entre 11 y 20 años\nSectores de experiencia: Tecnología / TIC;Servicios empresariales / Consultoría;Sector financiero\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Comercial y ventas;Tecnología y digitalización;Internacionalización\nObjetivo: Ampliar o diversificar una actividad empresarial existente\nOperaciones previas: Sí, en varias operaciones\nImplicacion buscada: Participación estratégica o en órganos de dirección\nForma de operar: Junto con otros socios o inversores\nActividades de interes: Negocios anticíclicos, con ebitda de al menos 500k.\nSectores NO considera: Empresas que impliquen autoempleo, empresas B2C\nFacturacion objetivo: Miro por ebitda, no facturación. Al menos 500k de EBITDA adjustado, incluyendo el salario de los fundadores.\nEmpleados objetivo: Flexible.\nFinanciacion contemplada: Mix de equity y deuda.\nCaracteristicas que valora: Rentabilidad actual;Potencial de crecimiento;Cartera de clientes consolidada;Equipo humano estable;Marco o posicionamiento reconocido;Producto o servicio propio;Tecnología o conocimiento especializado;Ingresos recurrentes;Potencial de digitalización;Potencial de internacionalización\nAcepta empresas con cambios: Solo si las necesidades de mejora son limitadas\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido",
+        "estado": "activo",
+        "nombre": "Manuel Amor Loureda",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Socio",
+            "email": "amorloureda@gmail.com",
+            "nombre": "Manuel Amor Loureda",
+            "telefono": "655645987"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 2000,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Metal y siderurgia",
+          "Energia y medioambiente",
+          "Agricultura y alimentacion",
+          "Distribucion y logistica",
+          "Informatica y tecnologia",
+          "Servicios profesionales"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.53804+00:00"
+    },
+    {
+      "id": "2b3311c4527a4c639fc0",
+      "data": {
+        "tipo": "otro",
+        "notas": "Situacion profesional: Inversor/a\nExperiencia: Más de 20 años\nSectores de experiencia: Comercio y distribución\nAmbitos de experiencia: Comercial y ventas;Logística\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: No\nImplicacion buscada: Participación activa, pero sin dedicación a tiempo completo\nForma de operar: Junto con otros socios o inversores\nActividades de interes: SERVICIOS PERSONALES, FINANZAS\nSectores NO considera: HOSTELERIA, CONSTRUCCION, ENERGIA, INGENIERIA, CONSULTORIA, SALUD, EDUCACION\nFacturacion objetivo: ENTRE 100000€  Y  1.000.000€\nEmpleados objetivo: ENTRE 2 Y 5\nFinanciacion contemplada: Financiación bancaria;Financiación pública / instrumentos financieros públicos\nCaracteristicas que valora: Rentabilidad actual;Potencial de crecimiento;Cartera de clientes consolidada;Equipo humano estable;Producto o servicio propio;Marco o posicionamiento reconocido;Tecnología o conocimiento especializado;Instalaciones o activos;Ingresos recurrentes;Potencial de digitalización;Potencial de internacionalización\nAcepta empresas con cambios: Sí\nSituacion actual: Por el momento únicamente quiero conocer las oportunidades disponibles\nHorizonte temporal: Sin un horizonte temporal definido\nZonas preferidas: Área central de Asturias\nConcejos de interes: NO",
+        "estado": "activo",
+        "nombre": "ALVARO MARTINEZ SANCHEZ",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "",
+            "email": "almarsan1970@gmail.com",
+            "nombre": "ALVARO MARTINEZ SANCHEZ",
+            "telefono": "638101350"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 1000,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Agricultura y alimentacion",
+          "Automocion y componentes",
+          "Construccion e inmobiliario",
+          "Distribucion y logistica",
+          "Energia y medioambiente",
+          "Hosteleria y turismo",
+          "Industria manufacturera",
+          "Informatica y tecnologia",
+          "Metal y siderurgia",
+          "Quimica y farmacia",
+          "Retail y comercio",
+          "Salud y bienestar",
+          "Servicios profesionales",
+          "Textil y moda",
+          "Otro"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.593773+00:00"
+    },
+    {
+      "id": "e6a281e25f63493ab18f",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: ORIGEN SOLUTIONS\nSituacion profesional: Empresario/a\nExperiencia: Más de 20 años\nSectores de experiencia: Ingeniería y servicios técnicos;Medioambiente y economía circular\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Tecnología y digitalización\nObjetivo: Integrar la empresa adquirida en otra empresa o grupo\nOperaciones previas: Sí, en una operación\nImplicacion buscada: Participación activa, pero sin dedicación a tiempo completo\nForma de operar: A través de una sociedad o vehículo de inversión\nActividades de interes: Medio ambiente y TIC\nSectores NO considera: Transportes\nFacturacion objetivo: 200000 y 1000000\nEmpleados objetivo: 2 y 6\nFinanciacion contemplada: Recursos propios;Financiación bancaria;Financiación pública / instrumentos financieros públicos\nCaracteristicas que valora: Cartera de clientes consolidada;Marco o posicionamiento reconocido;Tecnología o conocimiento especializado;Potencial de digitalización\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido",
+        "estado": "activo",
+        "nombre": "SANTIAGO LANZA MASA",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "CEO",
+            "email": "santiago.lanza@origensolutions.es",
+            "nombre": "SANTIAGO LANZA MASA",
+            "telefono": "629583078"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 250,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Energia y medioambiente",
+          "Informatica y tecnologia",
+          "Servicios profesionales"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.647114+00:00"
+    },
+    {
+      "id": "33a54662eef449e9b6b7",
+      "data": {
+        "tipo": "privado",
+        "notas": "Empresa actual: Aramo Capital Partners GmbH\nSituacion profesional: Empresario/a;Inversor/a\nExperiencia: Más de 20 años\nSectores de experiencia: Industria y fabricación;Energía;Construcción;Transporte y logística;Tecnología / TIC;Ingeniería y servicios técnicos;Servicios empresariales / Consultoría;Salud y servicios sociosanitarios;Sector financiero\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Recursos humanos y gestión de equipos;Producción y operaciones;Internacionalización\nObjetivo: Realizar una inversión, principalmente financiera\nOperaciones previas: Sí, en varias operaciones\nImplicacion buscada: Participación estratégica o en órganos de dirección\nForma de operar: Dependerá del tipo de operación\nActividades de interes: negocios con EBITDA recurrente y demostrable con track record mínimo igual o superior a 5 años\nSectores NO considera: sin restricción de sectores\nFacturacion objetivo: Máximo valor de adquisicion: EUR 1m\nEmpleados objetivo: N/A\nFinanciacion contemplada: Recursos propios;Financiación bancaria;Financiación pública / instrumentos financieros públicos;Financiación o pago aplazado acordado con la propiedad;Incorporación de otros socios o inversores\nCaracteristicas que valora: Rentabilidad actual;Potencial de crecimiento;Cartera de clientes consolidada;Equipo humano estable;Marco o posicionamiento reconocido;Ingresos recurrentes\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido\nConcejos de interes: No",
+        "estado": "activo",
+        "nombre": "Francisco José Feito Fernández",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Fundador y propietario",
+            "email": "francisco.feito@aramo.capital",
+            "nombre": "Francisco José Feito Fernández",
+            "telefono": "+41763879811"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 1000,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Agricultura y alimentacion",
+          "Automocion y componentes",
+          "Construccion e inmobiliario",
+          "Distribucion y logistica",
+          "Energia y medioambiente",
+          "Hosteleria y turismo",
+          "Industria manufacturera",
+          "Informatica y tecnologia",
+          "Metal y siderurgia",
+          "Quimica y farmacia",
+          "Retail y comercio",
+          "Salud y bienestar",
+          "Servicios profesionales",
+          "Textil y moda",
+          "Otro"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.709317+00:00"
+    },
+    {
+      "id": "503744509d2c4acb9738",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: AutoStore System S.L.\nSituacion profesional: Directivo/a o responsable de área\nExperiencia: Más de 20 años\nSectores de experiencia: Agroalimentario;Comercio y distribución;Transporte y logística;Tecnología / TIC;Servicios empresariales / Consultoría\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Comercial y ventas;Marketing y comunicación;Logística;Innovación\nTrayectoria: Perfil navaja suiza con amplia experiencia multifuncional en ventas, marketing, innovación, dirección y gestión de empresas. \n\n\n- Consultoría estratégica (Boston Consulting Group, Dalberg Global Dev Advisors originada en McKinsedy)\n- Lider del Innovation Acceleration team en Nestlé\n- Manager de estrategia e Innovación en Nespresso\n- Director de Nespresso Profesional en Nórdicos y miembro del Comité de Dirección de Nespresso en la región\n- Responsable comercial de la expansión de la empresa tecnológica y logística AutoStore System\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: Sí, en varias operaciones\nImplicacion buscada: Participación activa, pero sin dedicación a tiempo completo\nForma de operar: Dependerá del tipo de operación\nActividades de interes: Empresa industrial, con finanzas saneadas, estructura que la permita funcionar de manera autónoma (no 100% dependiente de un dueño, sino con equipo suficiente), falta de relevo generacional y potencial de crecimiento via digitalización, mejoras de procesos, internacionalización, etc.\nSectores NO considera: No definido\nFacturacion objetivo: 500,000 - 7,000,000€\nEmpleados objetivo: 3- 49\nFinanciacion contemplada: Incorporación de otros socios o inversores;Financiación pública / instrumentos financieros públicos;Financiación o pago aplazado acordado con la propiedad;Recursos propios;Financiación bancaria\nCaracteristicas que valora: Rentabilidad actual;Potencial de crecimiento;Cartera de clientes consolidada;Equipo humano estable;Marco o posicionamiento reconocido;Ingresos recurrentes;Potencial de digitalización;Potencial de internacionalización;Tecnología o conocimiento especializado\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Entre 1 y 2 años",
+        "estado": "activo",
+        "nombre": "Alberto Salvador de la Hoz",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Enterprise Manager Iberia",
+            "email": "Salvadordelahoz@gmail.com",
+            "nombre": "Alberto Salvador de la Hoz",
+            "telefono": "+34686548463"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 2000,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Agricultura y alimentacion",
+          "Construccion e inmobiliario",
+          "Retail y comercio",
+          "Distribucion y logistica",
+          "Informatica y tecnologia",
+          "Energia y medioambiente"
+        ],
+        "provinciaInteres": []
+      },
+      "created_at": "2026-10-28T07:17:39.771338+00:00"
+    },
+    {
+      "id": "2b57391462cb4e589fd2",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: GALVAZINC, S.A.\nSituacion profesional: Directivo/a o responsable de área\nExperiencia: Más de 20 años\nSectores de experiencia: Industria y fabricación;Transporte y logística\nAmbitos de experiencia: Dirección y gestión empresarial;Recursos humanos y gestión de equipos;Producción y operaciones;Logística\nObjetivo: Otros\nOperaciones previas: No\nImplicacion buscada: Participación activa, pero sin dedicación a tiempo completo\nForma de operar: Todavía no lo tengo definido\nActividades de interes: Metal\nSectores NO considera: Hosteleria\nFacturacion objetivo: 30.000\nEmpleados objetivo: 5\nFinanciacion contemplada: Financiación bancaria;Incorporación de otros socios o inversores\nCaracteristicas que valora: Cartera de clientes consolidada;Equipo humano estable;Producto o servicio propio;Instalaciones o activos;Potencial de crecimiento;Rentabilidad actual\nAcepta empresas con cambios: Solo si las necesidades de mejora son limitadas\nSituacion actual: Por el momento únicamente quiero conocer las oportunidades disponibles\nHorizonte temporal: Sin un horizonte temporal definido\nConcejos de interes: No",
+        "estado": "activo",
+        "nombre": "Javier Prada Sobrin",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Director General",
+            "email": "javier.prada@galvazinc.es",
+            "nombre": "Javier Prada Sobrin",
+            "telefono": "+34664297400"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": null,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Metal y siderurgia",
+          "Servicios profesionales"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.82828+00:00"
+    },
+    {
+      "id": "7d6657f5ea9c44ce823f",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: LjCadenas\nSituacion profesional: Profesional autónomo/a\nExperiencia: Entre 5 y 10 años\nSectores de experiencia: Comercio y distribución;Educación y formación;Sector inmobiliario\nAmbitos de experiencia: Comercial y ventas;Tecnología y digitalización\nTrayectoria: Aprendiz de todo, maestro de nada... ;)\nObjetivo: Adquirir una empresa para gestionarla personalmente\nOperaciones previas: No\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: A título individual\nActividades de interes: Formación Infomática\nSectores NO considera: Todo es negociable...\nFacturacion objetivo: Desconozco el dato.\nEmpleados objetivo: Dependerá del sector.\nFinanciacion contemplada: Incorporación de otros socios o inversores;Financiación bancaria;Recursos propios;Financiación pública / instrumentos financieros públicos;Financiación o pago aplazado acordado con la propiedad\nCaracteristicas que valora: Rentabilidad actual;Potencial de internacionalización;Equipo humano estable;Producto o servicio propio;Tecnología o conocimiento especializado\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: En los próximos 12 meses\nConcejos de interes: Oviedo, Gijón...",
+        "estado": "activo",
+        "nombre": "Leonardo Javier Cadenas Díaz",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Autónomo",
+            "email": "leonardo@telecable.es",
+            "nombre": "Leonardo Javier Cadenas Díaz",
+            "telefono": "617891710"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": null,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Hosteleria y turismo",
+          "Informatica y tecnologia",
+          "Servicios profesionales",
+          "Construccion e inmobiliario"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.890514+00:00"
+    },
+    {
+      "id": "c4ac8c81fdb240d6bbcc",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: Ramboll Iberia\nSituacion profesional: Directivo/a o responsable de área\nExperiencia: Más de 20 años\nSectores de experiencia: Industria y fabricación;Agroalimentario;Medioambiente y economía circular\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Internacionalización\nTrayectoria: Cuento con más de 25 años de experiencia en el ámbito de la sostenibilidad y cambio climático. Actualmente, soy director de departamento de Sostenibilidad y Cambio climático en Ramboll Iberia. Antes de trabajar en consultoría medio-ambiental, fuí director de sostenibilidad en la chocolatera Natra (2019-2024 y propiedad del fondo Investindustrial), donde implanté planes estratégicos de Sostenibilidad, supervisé los informes anuales no financieros y la puesta en marcha de proyectos innovadores de cacao y chocolates más sostenibles. \nAnteriormente, en mi experiencia en Francia, fui director de Sostenibilidad en el Grupo CÉMOI, Lead en servicios de sostenibilidad y digitalización en Bureau Veritas y Director General de Fairtrade International en Francia (sello de comercio justo) donde consolidé mi experiencia en certificación de sostenibilidad, internacionalización y planificación estratégica. \nEmpecé mi carrera en consultoría estratégica y finanzas. Tengo una licenciatura y masters en Economía y Finanzas por HEC Paris y ESADE.\nHe sido miembro de comités directivos/ejecutivos. He gestionado equipos de hasta 50 empleados y redes internacionales de más de 100 expertos.\n\nMi perfil Linked-In : https://www.linkedin.com/in/joaquin-munoz-martinez/\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: Sí, en varias operaciones\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: Junto con otros socios o inversores\nActividades de interes: PYMES asturianas con EBITDA entre 0,5 y 5 millones de euros, en fases de crecimiento, con un historial de generación de caja\nSectores NO considera: Las industrias inmobiliaria y de servicios financieros. \nLas industrias relacionada con armamento\nFacturacion objetivo: 2 M€\nEmpleados objetivo: depende del sector\nFinanciacion contemplada: Incorporación de otros socios o inversores\nCaracteristicas que valora: Potencial de crecimiento;Rentabilidad actual;Producto o servicio propio;Ingresos recurrentes;Potencial de internacionalización\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy buscando activamente una empresa\nHorizonte temporal: Entre 1 y 2 años\nOtros criterios: Me interesa también PYMES donde falta un plan de sucesión a hijos o cuyos propietarios no tenga sucesores\nZonas preferidas: Occidente de Asturias;Área central de Asturias",
+        "estado": "activo",
+        "nombre": "Joaquin Muñoz",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Principal",
+            "email": "joaquin_munoz@hotmail.com",
+            "nombre": "Joaquin Muñoz",
+            "telefono": "+34627865364"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 500,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Agricultura y alimentacion",
+          "Hosteleria y turismo",
+          "Servicios profesionales",
+          "Energia y medioambiente"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:39.953582+00:00"
+    },
+    {
+      "id": "2ce0b9af69fd491d941b",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: Asturmex\nSituacion profesional: Jubilado/a o prejubilado/a\nExperiencia: Más de 20 años\nSectores de experiencia: Comercio y distribución;Servicios empresariales / Consultoría\nAmbitos de experiencia: Comercial y ventas;Dirección y gestión empresarial\nTrayectoria: Administrador de empresas,  con más de 20 años de experiencia como administrador de inmuebles, centros comerciales,  gerente de operaciones en empresas de retail como Costco, Sam's Club, Aurrerá.\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: No\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: A título individual\nActividades de interes: Gestión inmobiliaria\nSectores NO considera: Metalurgia\nFacturacion objetivo: 12000/36000\nEmpleados objetivo: 1-5\nFinanciacion contemplada: Recursos propios\nCaracteristicas que valora: Producto o servicio propio;Potencial de internacionalización\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: En los próximos 12 meses\nOtros criterios: Actualmente radico en México pero si encuentro alguna oportunidad principalmente en Oviedo, estaría dispuesto a reubicarme.\nZonas preferidas: Área central de Asturias;Oriente de Asturias\nConcejos de interes: Oviedo, Gijón y Llanes.",
+        "estado": "activo",
+        "nombre": "Javier Navarro Peláez",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Socio",
+            "email": "javierdellanes@gmail.com",
+            "nombre": "Javier Navarro Peláez",
+            "telefono": "+52 777 494 94 39"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": 5,
+        "inversionMax": null,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Retail y comercio",
+          "Hosteleria y turismo",
+          "Servicios profesionales",
+          "Construccion e inmobiliario"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.00682+00:00"
+    },
+    {
+      "id": "3de37d8b2fba49adbe47",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: CFO Factor\nSituacion profesional: Empresario/a\nExperiencia: Entre 11 y 20 años\nSectores de experiencia: Metal;Comercio y distribución;Ingeniería y servicios técnicos;Servicios empresariales / Consultoría;Sector financiero\nAmbitos de experiencia: Dirección y gestión empresarial;Finanzas y control de gestión\nObjetivo: Ampliar o diversificar una actividad empresarial existente\nOperaciones previas: Sí, en varias operaciones\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: A través de una empresa de la que soy socio/a\nActividades de interes: Consultoría, asesoría\nSectores NO considera: Ninguna\nFacturacion objetivo: Abierto a todo\nEmpleados objetivo: me da igual\nFinanciacion contemplada: Recursos propios;Financiación bancaria;Incorporación de otros socios o inversores;Financiación pública / instrumentos financieros públicos;Financiación o pago aplazado acordado con la propiedad\nCaracteristicas que valora: Rentabilidad actual;Potencial de crecimiento;Cartera de clientes consolidada;Ingresos recurrentes\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: En los próximos 12 meses\nZonas preferidas: Área central de Asturias\nConcejos de interes: Oviedo",
+        "estado": "activo",
+        "nombre": "Jose Antonio Campa Mosquera",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Administrador",
+            "email": "jose.campa@cfofactor.es",
+            "nombre": "Jose Antonio Campa Mosquera",
+            "telefono": "618327808"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 1000,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Agricultura y alimentacion",
+          "Automocion y componentes",
+          "Construccion e inmobiliario",
+          "Distribucion y logistica",
+          "Energia y medioambiente",
+          "Hosteleria y turismo",
+          "Industria manufacturera",
+          "Informatica y tecnologia",
+          "Metal y siderurgia",
+          "Quimica y farmacia",
+          "Retail y comercio",
+          "Salud y bienestar",
+          "Servicios profesionales",
+          "Textil y moda",
+          "Otro"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.061386+00:00"
+    },
+    {
+      "id": "8f68b3bea8c0468aa3a2",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: LS Energía y Fluidos\nSituacion profesional: Profesional por cuenta ajena\nExperiencia: Más de 20 años\nSectores de experiencia: Metal;Construcción;Energía;Agroalimentario;Comercio y distribución;Turismo y hostelería;Educación y formación;Sector inmobiliario\nAmbitos de experiencia: Recursos humanos y gestión de equipos;Producción y operaciones;Compras y aprovisionamiento;Dirección y gestión empresarial\nObjetivo: Ampliar o diversificar una actividad empresarial existente\nOperaciones previas: No\nImplicacion buscada: Participación activa, pero sin dedicación a tiempo completo\nForma de operar: Junto con otros socios o inversores\nActividades de interes: Pequeña empresa en general\nSectores NO considera: Ninguno\nFacturacion objetivo: Mínima de 60.000€ y maxima sin límites\nEmpleados objetivo: Mínimo uno o ninguno y máximo sin definir\nFinanciacion contemplada: Financiación bancaria;Incorporación de otros socios o inversores\nCaracteristicas que valora: Rentabilidad actual\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Más de 2 años\nConcejos de interes: No",
+        "estado": "activo",
+        "nombre": "Pablo Sánchez Tuero",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Autónomo",
+            "email": "ppsancheztuero@gmail.com",
+            "nombre": "Pablo Sánchez Tuero",
+            "telefono": "627909719"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 500,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Agricultura y alimentacion",
+          "Automocion y componentes",
+          "Construccion e inmobiliario",
+          "Distribucion y logistica",
+          "Energia y medioambiente",
+          "Hosteleria y turismo",
+          "Industria manufacturera",
+          "Informatica y tecnologia",
+          "Metal y siderurgia",
+          "Quimica y farmacia",
+          "Retail y comercio",
+          "Salud y bienestar",
+          "Servicios profesionales",
+          "Textil y moda",
+          "Otro"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.113728+00:00"
+    },
+    {
+      "id": "2716ec4da01f41ae8d08",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: Clínica Nueve de Mayo\nSituacion profesional: Empresario/a\nExperiencia: Más de 20 años\nSectores de experiencia: Industria y fabricación;Metal;Ingeniería y servicios técnicos;Salud y servicios sociosanitarios\nAmbitos de experiencia: Dirección y gestión empresarial;Producción y operaciones;Compras y aprovisionamiento\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: Sí, en una operación\nImplicacion buscada: Participación activa, pero sin dedicación a tiempo completo\nForma de operar: Dependerá del tipo de operación\nActividades de interes: Ingenierías, energía, sociosanitarias,...\nSectores NO considera: Asesorias, consultorias\nFacturacion objetivo: 50.000 - 150.000€\nEmpleados objetivo: 1-10\nFinanciacion contemplada: Recursos propios;Financiación bancaria;Incorporación de otros socios o inversores\nCaracteristicas que valora: Rentabilidad actual;Potencial de crecimiento;Cartera de clientes consolidada;Equipo humano estable;Marco o posicionamiento reconocido;Instalaciones o activos;Ingresos recurrentes\nAcepta empresas con cambios: No\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido\nZonas preferidas: Área central de Asturias",
+        "estado": "activo",
+        "nombre": "Juan Álvarez Barragán",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Administrador",
+            "email": "juanalvarezbarragan@gmail.com",
+            "nombre": "Juan Álvarez Barragán",
+            "telefono": "679362407"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": 10,
+        "inversionMax": 250,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Metal y siderurgia",
+          "Construccion e inmobiliario",
+          "Energia y medioambiente",
+          "Informatica y tecnologia",
+          "Servicios profesionales"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.163871+00:00"
+    },
+    {
+      "id": "b4b657017e9e49fc9202",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: Inverandus\nSituacion profesional: Empresario/a\nExperiencia: Más de 20 años\nSectores de experiencia: Industria y fabricación;Energía;Transporte y logística;Tecnología / TIC\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Innovación\nObjetivo: Ampliar o diversificar una actividad empresarial existente\nOperaciones previas: Sí, en varias operaciones\nImplicacion buscada: Participación estratégica o en órganos de dirección\nForma de operar: Junto con otros socios o inversores\nActividades de interes: PYMEs con potencial de crecimiento en una situacion de proxima sucesion\nSectores NO considera: Inmobiliario\nFacturacion objetivo: Minima 1 M euros, Maxima 30 M Euros\nEmpleados objetivo: Minimo 5, Maximo200\nFinanciacion contemplada: Recursos propios;Incorporación de otros socios o inversores\nCaracteristicas que valora: Potencial de crecimiento;Producto o servicio propio;Tecnología o conocimiento especializado;Potencial de digitalización\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy buscando activamente una empresa\nHorizonte temporal: En los próximos 12 meses",
+        "estado": "activo",
+        "nombre": "Gerardo Casares Medrano",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "CEO",
+            "email": "gerardo@inverandus.com",
+            "nombre": "Gerardo Casares Medrano",
+            "telefono": "679197604"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": 200,
+        "inversionMax": 2000,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": 30,
+        "facturacionMin": 1,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Energia y medioambiente",
+          "Agricultura y alimentacion",
+          "Informatica y tecnologia",
+          "Servicios profesionales"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.232504+00:00"
+    },
+    {
+      "id": "4425c6e0297447618c67",
+      "data": {
+        "tipo": "otro",
+        "notas": "Situacion profesional: Directivo/a o responsable de área\nExperiencia: Entre 11 y 20 años\nSectores de experiencia: Comercio y distribución;Otros\nAmbitos de experiencia: Dirección y gestión empresarial;Recursos humanos y gestión de equipos\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: No\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: A título individual\nActividades de interes: Ninguno\nSectores NO considera: Ninguno\nFacturacion objetivo: .\nEmpleados objetivo: Sin mínimo. \nMáximo 50\nFinanciacion contemplada: Recursos propios;Financiación bancaria\nCaracteristicas que valora: Cartera de clientes consolidada\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido",
+        "estado": "activo",
+        "nombre": "Juan De la Cera Sánchez de las Matas",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "",
+            "email": "J.lacera28@gmail.com",
+            "nombre": "Juan De la Cera Sánchez de las Matas",
+            "telefono": "639143899"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 500,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Agricultura y alimentacion",
+          "Automocion y componentes",
+          "Construccion e inmobiliario",
+          "Distribucion y logistica",
+          "Energia y medioambiente",
+          "Hosteleria y turismo",
+          "Industria manufacturera",
+          "Informatica y tecnologia",
+          "Metal y siderurgia",
+          "Quimica y farmacia",
+          "Retail y comercio",
+          "Salud y bienestar",
+          "Servicios profesionales",
+          "Textil y moda",
+          "Otro"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.284271+00:00"
+    },
+    {
+      "id": "88657a07a8084d5ab4d0",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: ASEPRO SEGURIDAD S.L.U.\nSituacion profesional: Empresario/a\nExperiencia: Más de 20 años\nSectores de experiencia: Servicios empresariales / Consultoría\nAmbitos de experiencia: Dirección y gestión empresarial;Comercial y ventas;Producción y operaciones;Recursos humanos y gestión de equipos\nObjetivo: Integrar la empresa adquirida en otra empresa o grupo\nOperaciones previas: No\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: A través de una empresa de la que soy socio/a\nActividades de interes: LIMPIEZA Y SERVICIOS MEDIOAMBIENTALES, DDD, SISTEMAS DE SEGURIDAD, PROTECCIÓN CONTRA INCENDIOS, OTROS SERVICIOS A EMPRESAS.\nSectores NO considera: INDUSTRIA\nFacturacion objetivo: MAXIMA DE 2-3 MILLONES DE EUROS\nEmpleados objetivo: EN FUNCIÓN DE LA FACTURACIÓN ES INDISTINTO.\nFinanciacion contemplada: Recursos propios;Financiación o pago aplazado acordado con la propiedad;Incorporación de otros socios o inversores;Financiación bancaria;Financiación pública / instrumentos financieros públicos\nCaracteristicas que valora: Potencial de crecimiento;Ingresos recurrentes;Cartera de clientes consolidada;Rentabilidad actual\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido",
+        "estado": "activo",
+        "nombre": "LUIS ANGEL GARCIA MERINO",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "DIRECTOR GENERAL",
+            "email": "garciamerino@grupoasepro.com",
+            "nombre": "LUIS ANGEL GARCIA MERINO",
+            "telefono": "617385885"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 500,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": 2,
+        "facturacionMin": null,
+        "sectoresInteres": "Servicios profesionales",
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.337247+00:00"
+    },
+    {
+      "id": "b0cde906d74a4821a1c1",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: EOHM\nSituacion profesional: Empresario/a\nExperiencia: Entre 11 y 20 años\nSectores de experiencia: Industria y fabricación;Energía;Servicios empresariales / Consultoría;Ingeniería y servicios técnicos\nAmbitos de experiencia: Dirección y gestión empresarial;Producción y operaciones;Tecnología y digitalización\nTrayectoria: Ingeniero Industrial (MSc) y profesional certificado PMP® con más de 10 años de experiencia en gestión de proyectos, ingeniería, pruebas y puesta en servicio de infraestructuras eléctricas y sistemas de control y automatización para proyectos EPC internacionales de los sectores energético e industrial.\nPerfil técnico y de gestión, con experiencia en la dirección integral de proyectos, coordinación de equipos multidisciplinares, gestión de clientes, proveedores y contratistas, control de costes, planificación y seguimiento de alcance, plazos y calidad. Su formación se complementa con un Grado en Administración y Dirección de Empresas, reforzando sus competencias en gestión empresarial, organización, planificación, análisis económico y toma de decisiones.\nObjetivo: Ampliar o diversificar una actividad empresarial existente\nOperaciones previas: No\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: A través de una empresa de la que soy socio/a\nActividades de interes: Taller/fabricación de producto propio.\nSectores NO considera: Salud, transporte y logística\nFacturacion objetivo: 200.000-5.000.000\nEmpleados objetivo: 1-15\nFinanciacion contemplada: Recursos propios\nCaracteristicas que valora: Ingresos recurrentes;Producto o servicio propio;Potencial de crecimiento\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Entre 1 y 2 años\nZonas preferidas: Área central de Asturias",
+        "estado": "activo",
+        "nombre": "Raúl de la Mata Aller",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Director de Operaciones",
+            "email": "delamata.raul@gmail.com",
+            "nombre": "Raúl de la Mata Aller",
+            "telefono": "683408071"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": 15,
+        "inversionMax": 500,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Metal y siderurgia",
+          "Servicios profesionales"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.392261+00:00"
+    },
+    {
+      "id": "234f185b7fef4597a422",
+      "data": {
+        "tipo": "otro",
+        "notas": "Situacion profesional: Directivo/a o responsable de área\nExperiencia: Más de 20 años\nSectores de experiencia: Energía;Servicios empresariales / Consultoría;Comercio y distribución;Industria y fabricación\nAmbitos de experiencia: Estrategia y desarrollo de negocio;Finanzas y control de gestión;Producción y operaciones;Internacionalización\nTrayectoria: Sector energias renovables. Sector Maritimo.\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: Sí, en varias operaciones\nImplicacion buscada: Participación activa, pero sin dedicación a tiempo completo\nForma de operar: Dependerá del tipo de operación\nActividades de interes: No definido\nSectores NO considera: Inmobiliario, medioambiente y economia circular, turismo y hosteleria.\nFacturacion objetivo: No definido\nEmpleados objetivo: No definido\nFinanciacion contemplada: Financiación bancaria\nCaracteristicas que valora: Potencial de crecimiento;Cartera de clientes consolidada;Producto o servicio propio;Tecnología o conocimiento especializado;Potencial de digitalización\nAcepta empresas con cambios: Solo si las necesidades de mejora son limitadas\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido",
+        "estado": "activo",
+        "nombre": "Nuria Emma Lacera Lema",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "",
+            "email": "n.lacera@gmail.com",
+            "nombre": "Nuria Emma Lacera Lema",
+            "telefono": "676757324"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 250,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Energia y medioambiente",
+          "Retail y comercio",
+          "Distribucion y logistica",
+          "Servicios profesionales"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.443669+00:00"
+    },
+    {
+      "id": "4e3338f0bea842bd9089",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: FlexiDrop Technologies, S.L.\nSituacion profesional: Empresario/a\nExperiencia: Entre 5 y 10 años\nSectores de experiencia: Comercio y distribución;Transporte y logística;Tecnología / TIC\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Comercial y ventas;Logística;Tecnología y digitalización;Internacionalización\nTrayectoria: Fundador y administrador único de FlexiDrop Technologies, S.L. (Gijón, 2026), plataforma tecnológica de movilidad compartida, envíos y transporte de mercancías por carretera. Técnico Superior en Comercio Internacional y en Logística, con formación de posgrado en analítica web e inteligencia artificial. Alrededor de diez años en logística, comercio electrónico, marketplaces y movilidad; anteriormente Chief Strategy Officer en Bluco (agencia de marketplaces) y cofundador de Saurus.\nObjetivo: Integrar la empresa adquirida en otra empresa o grupo\nOperaciones previas: No\nImplicacion buscada: Participación estratégica o en órganos de dirección\nForma de operar: A través de una empresa de la que soy socio/a\nActividades de interes: Negocios que encajen con FlexiDrop y se puedan integrar en ella: movilidad y transporte de viajeros (VTC, taxi, transporte discrecional o bajo demanda), paquetería y última milla, transporte de mercancías por carretera, agencias de transporte y operadores logísticos, y venta online o comercio electrónico con logística propia.\nSectores NO considera: Actividades sin relación con la movilidad, la logística o la venta online (industria, construcción, hostelería, inmobiliario, etc.).\nFacturacion objetivo: Preferentemente pequeñas empresas. Se valoraría según cada operación.\nEmpleados objetivo: Micro y pequeñas empresas. Se valoraría según cada operación.\nFinanciacion contemplada: Recursos propios;Financiación bancaria;Financiación pública / instrumentos financieros públicos;Financiación o pago aplazado acordado con la propiedad\nCaracteristicas que valora: Cartera de clientes consolidada;Ingresos recurrentes;Potencial de digitalización;Potencial de crecimiento\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Sin un horizonte temporal definido\nOtros criterios: Buscamos oportunidades relacionadas con la actividad de FlexiDrop (movilidad, logística y venta online) que aporten clientes, flota o capacidad operativa y que se puedan integrar en nuestra plataforma tecnológica.\nConcejos de interes: Gijón, Oviedo y Avilés por cercanía a nuestra base, aunque no es excluyente.",
+        "estado": "activo",
+        "nombre": "Mateo Cardona Raigosa",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Fundador y administrador único",
+            "email": "info@flexidrop.es",
+            "nombre": "Mateo Cardona Raigosa",
+            "telefono": "600896136"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": null,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Retail y comercio",
+          "Distribucion y logistica",
+          "Informatica y tecnologia"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.503261+00:00"
+    },
+    {
+      "id": "82ebe92acfcc41309b85",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: Ema\nSituacion profesional: Directivo/a o responsable de área\nExperiencia: Más de 20 años\nSectores de experiencia: Metal;Construcción;Comercio y distribución;Servicios empresariales / Consultoría;Sector financiero;Otros\nAmbitos de experiencia: Dirección y gestión empresarial;Finanzas y control de gestión;Comercial y ventas;Estrategia y desarrollo de negocio\nObjetivo: Adquirir una empresa para gestionarla personalmente\nOperaciones previas: Sí, en una operación\nImplicacion buscada: Participación activa, pero sin dedicación a tiempo completo\nForma de operar: A título individual\nActividades de interes: Construccion\nSectores NO considera: Ti\nFacturacion objetivo: 500.000 minima\n50.000.000 maxima\nEmpleados objetivo: 1 y 999\nFinanciacion contemplada: Recursos propios;Financiación bancaria;Incorporación de otros socios o inversores\nCaracteristicas que valora: Rentabilidad actual;Potencial de crecimiento;Cartera de clientes consolidada;Equipo humano estable;Instalaciones o activos;Ingresos recurrentes\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: Más de 2 años\nZonas preferidas: Área central de Asturias;Occidente de Asturias\nConcejos de interes: Oviedo\nSalas",
+        "estado": "activo",
+        "nombre": "José Abraham Menéndez Riera",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Financiero",
+            "email": "abrahammenendez@gmail.com",
+            "nombre": "José Abraham Menéndez Riera",
+            "telefono": "647565321"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 250,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": 50000,
+        "sectoresInteres": [
+          "Energia y medioambiente",
+          "Retail y comercio",
+          "Servicios profesionales",
+          "Construccion e inmobiliario"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.559057+00:00"
+    },
+    {
+      "id": "d8afa3cee7fe47b4bca1",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: Estudio 27 CMG SL\nSituacion profesional: Empresario/a\nExperiencia: Entre 11 y 20 años\nSectores de experiencia: Tecnología / TIC;Turismo y hostelería;Servicios empresariales / Consultoría;Educación y formación;Sector inmobiliario\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Comercial y ventas;Marketing y comunicación;Finanzas y control de gestión;Recursos humanos y gestión de equipos;Tecnología y digitalización;Innovación\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: No\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: Dependerá del tipo de operación\nActividades de interes: Servicios\nSectores NO considera: Ninguno\nFacturacion objetivo: 40k - 1M\nEmpleados objetivo: 2-4\nFinanciacion contemplada: Recursos propios\nCaracteristicas que valora: Potencial de crecimiento;Cartera de clientes consolidada;Instalaciones o activos;Ingresos recurrentes;Potencial de digitalización\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy buscando activamente una empresa\nHorizonte temporal: En los próximos 12 meses",
+        "estado": "activo",
+        "nombre": "Pablo Marti Elvira",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "CEO",
+            "email": "Pablomarti@estudio-27.com",
+            "nombre": "Pablo Marti Elvira",
+            "telefono": "638772531"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": 4,
+        "inversionMax": null,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Agricultura y alimentacion",
+          "Automocion y componentes",
+          "Construccion e inmobiliario",
+          "Distribucion y logistica",
+          "Energia y medioambiente",
+          "Hosteleria y turismo",
+          "Industria manufacturera",
+          "Informatica y tecnologia",
+          "Metal y siderurgia",
+          "Quimica y farmacia",
+          "Retail y comercio",
+          "Salud y bienestar",
+          "Servicios profesionales",
+          "Textil y moda",
+          "Otro"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.612356+00:00"
+    },
+    {
+      "id": "091da5a6169f472da867",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: Dinamika360\nSituacion profesional: Empresario/a\nExperiencia: Más de 20 años\nSectores de experiencia: Industria y fabricación;Construcción;Comercio y distribución;Transporte y logística;Sector inmobiliario\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Comercial y ventas;Marketing y comunicación;Finanzas y control de gestión;Recursos humanos y gestión de equipos;Producción y operaciones;Compras y aprovisionamiento\nTrayectoria: Mas de 35 años en gestión de empresa.\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: No\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: Dependerá del tipo de operación\nActividades de interes: Cualquiera.\nSectores NO considera: Ninguno.\nFacturacion objetivo: Valoro principalmente el potencial.\nEmpleados objetivo: Indistinto\nFinanciacion contemplada: Financiación o pago aplazado acordado con la propiedad\nCaracteristicas que valora: Rentabilidad actual;Potencial de crecimiento;Cartera de clientes consolidada;Equipo humano estable;Marco o posicionamiento reconocido;Producto o servicio propio;Ingresos recurrentes\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: En los próximos 12 meses\nZonas preferidas: Área central de Asturias",
+        "estado": "activo",
+        "nombre": "Tomas Zapico",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Administrador.",
+            "email": "tomaszapico@dinamika360.com",
+            "nombre": "Tomas Zapico",
+            "telefono": "684681751"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 250,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Agricultura y alimentacion",
+          "Automocion y componentes",
+          "Construccion e inmobiliario",
+          "Distribucion y logistica",
+          "Energia y medioambiente",
+          "Hosteleria y turismo",
+          "Industria manufacturera",
+          "Informatica y tecnologia",
+          "Metal y siderurgia",
+          "Quimica y farmacia",
+          "Retail y comercio",
+          "Salud y bienestar",
+          "Servicios profesionales",
+          "Textil y moda",
+          "Otro"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.666723+00:00"
+    },
+    {
+      "id": "ad30656bff764c36b44d",
+      "data": {
+        "tipo": "otro",
+        "notas": "Empresa actual: Iluminación, autónomo\nSituacion profesional: Otra situación\nExperiencia: Entre 5 y 10 años\nSectores de experiencia: Otros\nAmbitos de experiencia: Otros\nTrayectoria: Hola, soy electricista con carnet de instalador de baja tensión y técnico de iluminación. Soy autónomo y me gustaría contactar con algún electricista por medio de su programa de relevo generacional para poder formarme y crecer dentro del sector eléctrico en Asturias.\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: No\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: A título individual\nActividades de interes: Hola, me interesa la electricidad, como mencioné anteriormente cuento con el carnet de instalador autorizado, y me consta que es una rama con poco relevo generacional y que me gusta, por lo que lo veo una oportunidad para crecer tanto de manera personal como profesional.\nSectores NO considera: Habría que ver cada caso, pero dentro de lo que busco o similares no me cierro a nada\nFacturacion objetivo: 21.000€ diría que es una facturación mínima, pero todo depende de cada caso y situación, hay que verlo. y máxima, lo que me pueda permitir.\nEmpleados objetivo: Mínimo yo como autónomo, que ya estoy de alta, y máxima no lo sé, todo es verlo y valorarlo según cada situación.\nFinanciacion contemplada: Recursos propios;Financiación bancaria;Incorporación de otros socios o inversores\nCaracteristicas que valora: Rentabilidad actual;Potencial de crecimiento;Cartera de clientes consolidada;Producto o servicio propio\nAcepta empresas con cambios: Solo si las necesidades de mejora son limitadas\nSituacion actual: Estoy valorando oportunidades, pero sin urgencia\nHorizonte temporal: En los próximos 12 meses\nOtros criterios: Lo ideal sería encontrar un profesional con experiencia que no le quede mucho para la jubilación, aprender de su trabajo y si todo va bien ser su relevo y crecer en el sector eléctrico.\nZonas preferidas: Área central de Asturias\nConcejos de interes: Toda la zona centro por ser mi residencia actual, y la zona del suroccidente ya que es donde nací, y poder ir a trabajar puntualmente allí no pasa nada, aunque en coche podría valorar trabajar en más zonas limitrofes",
+        "estado": "activo",
+        "nombre": "Álvaro Alonso Celemín",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Autónomo",
+            "email": "alvaroacelemin@gmail.com",
+            "nombre": "Álvaro Alonso Celemín",
+            "telefono": "684623678"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": null,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Construccion e inmobiliario",
+          "Industria manufacturera",
+          "Informatica y tecnologia",
+          "Otro"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.71838+00:00"
+    },
+    {
+      "id": "ffcaf7a1076a4d698da4",
+      "data": {
+        "tipo": "industrial",
+        "notas": "Empresa actual: Doismiller\nSituacion profesional: Empresario/a\nExperiencia: Entre 5 y 10 años\nSectores de experiencia: Industria y fabricación;Metal;Construcción;Energía;Otros;Medioambiente y economía circular\nAmbitos de experiencia: Dirección y gestión empresarial;Estrategia y desarrollo de negocio;Comercial y ventas;Marketing y comunicación;Otros\nObjetivo: Adquirir una empresa para gestionarla personalmente\nOperaciones previas: Sí, en una operación\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: A través de una empresa de la que soy socio/a\nActividades de interes: Fabricación, metal y construcción\nSectores NO considera: Turismo, hostelería y formación\nFacturacion objetivo: 200.000\nEmpleados objetivo: 7\nFinanciacion contemplada: Recursos propios + financiación\nCaracteristicas que valora: Rentabilidad actual;Potencial de crecimiento;Equipo humano estable;Cartera de clientes consolidada;Ingresos recurrentes\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy buscando activamente una empresa\nHorizonte temporal: En los próximos 12 meses",
+        "estado": "activo",
+        "nombre": "Fran del Cid",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Socio",
+            "email": "fran@doismiller.es",
+            "nombre": "Fran del Cid",
+            "telefono": "667871464"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 250,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Metal y siderurgia",
+          "Construccion e inmobiliario",
+          "Energia y medioambiente",
+          "Agricultura y alimentacion",
+          "Retail y comercio",
+          "Distribucion y logistica"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.774381+00:00"
+    },
+    {
+      "id": "6bb10295545a4d4c9e9c",
+      "data": {
+        "tipo": "otro",
+        "notas": "Situacion profesional: Profesional por cuenta ajena\nExperiencia: Menos de 5 años\nSectores de experiencia: Industria y fabricación;Metal;Ingeniería y servicios técnicos;Servicios empresariales / Consultoría;Energía\nAmbitos de experiencia: Tecnología y digitalización;Producción y operaciones\nTrayectoria: Inversor por cuenta particular en empresas cotizadas\nObjetivo: Emprender mediante la adquisición de una empresa en funcionamiento\nOperaciones previas: No\nImplicacion buscada: Gestión directa y dedicación habitual\nForma de operar: Dependerá del tipo de operación\nActividades de interes: Fabricación o mecanizados de metales, o cualquier industria B2B\nSectores NO considera: Servicios digitales, comercios, venta directa al consumidor\nFacturacion objetivo: Entre 1.5M y 500k\nEmpleados objetivo: Entre 4 y 10 aproximadamente\nFinanciacion contemplada: Recursos propios;Financiación o pago aplazado acordado con la propiedad;Financiación bancaria;Incorporación de otros socios o inversores\nCaracteristicas que valora: Equipo humano estable;Potencial de digitalización;Potencial de internacionalización;Ingresos recurrentes;Marco o posicionamiento reconocido;Cartera de clientes consolidada;Potencial de crecimiento\nAcepta empresas con cambios: Sí\nSituacion actual: Estoy buscando activamente una empresa\nHorizonte temporal: En los próximos 12 meses\nZonas preferidas: Zonas Aviles, Gijón, Cabo Peñas y cercanas\nConcejos de interes: Cerca de Luanco, pero no exclusivamente",
+        "estado": "activo",
+        "nombre": "Sergio Nebreda Da Estrella",
+        "origen": "nacional",
+        "contactos": [
+          {
+            "rol": "Ingeniero de diseño",
+            "email": "srg.nebreda@protonmail.com",
+            "nombre": "Sergio Nebreda Da Estrella",
+            "telefono": "+447510347709"
+          }
+        ],
+        "createdAt": "2026-10-28T10:00:00.000Z",
+        "ebitdaMin": null,
+        "empleadosMax": null,
+        "inversionMax": 250,
+        "inversionMin": null,
+        "tipoOperacion": "100",
+        "facturacionMax": null,
+        "facturacionMin": null,
+        "sectoresInteres": [
+          "Industria manufacturera",
+          "Metal y siderurgia",
+          "Agricultura y alimentacion",
+          "Distribucion y logistica",
+          "Construccion e inmobiliario",
+          "Servicios profesionales",
+          "Energia y medioambiente",
+          "Hosteleria y turismo",
+          "Informatica y tecnologia"
+        ],
+        "provinciaInteres": [
+          "Asturias"
+        ]
+      },
+      "created_at": "2026-10-28T07:17:40.837714+00:00"
+    }
+  ],
+  "matches": [
+    {
+      "id": "mpdx6hwceed0s29fygp",
+      "data": {
+        "id": "mpdx6hwceed0s29fygp",
+        "score": 65,
+        "createdAt": "2026-05-20T10:29:19.260Z",
+        "empresaId": "mp0v6dnz6w6qdz8iqw",
+        "updatedAt": "2026-05-20T10:29:19.260Z",
+        "notasMatch": "",
+        "compradorId": "mp13f2ljiybjxnyshg",
+        "estadoMatch": "presentado"
+      },
+      "created_at": "2026-05-20T10:29:20.920494+00:00"
+    }
+  ],
+  "actas": []
+}
